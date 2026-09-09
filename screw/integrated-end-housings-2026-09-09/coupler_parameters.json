@@ -1,0 +1,16 @@
+{
+  "coupler": {
+    "brand": "uxcell",
+    "amazon_asin": "B0G48ZZ6ZK",
+    "type": "flexible helical beam coupling",
+    "motor_bore_mm_spec": 3.0,
+    "rotor_bore_mm_spec": 6.35,
+    "outside_diameter_mm_spec": 15.0,
+    "overall_length_mm_spec": 20.0,
+    "minimum_free_rotation_envelope_diameter_mm": 17.0,
+    "motor_side_usable_bore_depth_mm": "MEASURE_REQUIRED",
+    "rotor_side_usable_bore_depth_mm": "MEASURE_REQUIRED",
+    "internal_stop_geometry": "MEASURE_REQUIRED",
+    "set_screw_axial_position_mm": "MEASURE_IF_NEEDED"
+  }
+}
