@@ -1,0 +1,39 @@
+{
+  "status": "ENGINEERING DIRECTION - NOT PRINT AUTHORIZED",
+  "motor_location": "BOTTOM",
+  "lower_end_role": "PRIMARY_FIXED_DATUM",
+  "upper_end_role": "ADJUSTABLE_ALIGNMENT_FOLLOWER",
+  "lower_pedestal_to_spine_rigid_tie": false,
+  "upper_carrier_mount": "through cedar and rear 2x4",
+  "upper_adjustment_mm": {
+    "vertical_each_direction": 6.0,
+    "fore_aft_each_direction": 4.0,
+    "lateral_each_direction": 1.0
+  },
+  "lower_stack_mm": {
+    "base_top_z": 0.0,
+    "yoke_underside_z": 47.0,
+    "yoke_thickness": 10.0,
+    "yoke_top_z": 57.0,
+    "r4_pocket_candidate_depth": 4.90,
+    "r4_pocket_bottom_z": 52.10
+  },
+  "n20_15rpm_measured_2026_08_27_mm": {
+    "gearbox_w": 11.90,
+    "gearbox_h": 9.93,
+    "length_no_shaft": 25.32,
+    "length_with_shaft": 36.07,
+    "shaft_protrusion": 10.75,
+    "status": "working measured input; confirm exact build motor before freezing cradle"
+  },
+  "motor_service_drop_min_mm": 10.0,
+  "motor_sled_slot_candidate_mm": 18.0,
+  "coupler": {
+    "motor_bore_mm": 3.0,
+    "rotor_bore_mm": 6.35,
+    "overall_length": "MEASURE_REQUIRED",
+    "motor_side_usable_depth": "MEASURE_REQUIRED",
+    "rotor_side_usable_depth": "MEASURE_REQUIRED",
+    "shaft_tip_air_gap": "REQUIRED"
+  }
+}
