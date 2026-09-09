@@ -1,0 +1,14 @@
+{
+  "status": "ENGINEERING CANDIDATE - NOT PRINT AUTHORIZED",
+  "units": "mm",
+  "filament_candidate": "WHITE PLA",
+  "shaft_diameter": 6.35,
+  "guide_rod_diameter": 6.35,
+  "r4_measured_od": 15.86,
+  "r4_measured_width": 4.99,
+  "r4_pocket_model_diameter": 15.96,
+  "r4_pocket_depth": 4.90,
+  "guide_nominal_radius": 33.25,
+  "guide_insert_adjustment_family": [-1.5, -0.75, 0, 0.75, 1.5],
+  "r01_inner_min_radius_mesh": 44.92
+}
